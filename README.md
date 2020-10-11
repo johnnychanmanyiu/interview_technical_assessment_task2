@@ -1,8 +1,9 @@
 # Requirements
-1. Python3.7.3
+1. Python 3.7.3+
 2. MacOS
 
 # Setup_guide
+Python
 1. Install homebrew                     "https://brew.sh/"
 2. Install npm and Node.js by homebrew  "brew install npm"
 3. Install python by npm                "npm install python"
