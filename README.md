@@ -1,5 +1,3 @@
-# interview_technical_assignment_task2
-
 # Requirements
 1. Python3.7.3
 2. MacOS
